@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Calendário da Copa é um projeto que mostra os primeiros jogos da Copa de 2022<br>
 
-Clique aqui para ver o [Deploy](https://explorer-lab-01-r3v9ruolg-devsteh.vercel.app) do projeto. 
+Clique aqui para ver o [Deploy](https://nlw-copa-2022-9z7phfso3-devsteh.vercel.app) do projeto. 
 
 ## 🔖 Layout
 
